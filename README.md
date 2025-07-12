@@ -20,8 +20,6 @@ Useful for journaling, mindfulness, and emotional self-awareness.
 ## Installation
 
 bash
-# Clone the repo
-git clone https://github.com/yourusername/emotion-reflection-tool.git
 
 # Navigate to the project directory
 cd emotion-reflection-tool
